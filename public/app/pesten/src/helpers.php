@@ -1,8 +1,5 @@
 <?php
 
-//dit is een test 
-// ik heb hem nu aan gepast 
-
 function dd($var)
 {
     echo "<pre>";

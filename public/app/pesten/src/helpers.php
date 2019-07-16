@@ -1,6 +1,7 @@
 <?php
 
 //dit is een test 
+// ik heb hem nu aan gepast 
 
 function dd($var)
 {
@@ -14,4 +15,3 @@ function output($message, $format = 'browser')
 {
     echo $message . $format == 'browser' ? "<br>" : PHP_EOL;
 }
-
